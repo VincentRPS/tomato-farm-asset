@@ -1,0 +1,45 @@
+{
+  "content": "",
+  "tts": false,
+  "embeds": [
+    {
+      "id": 652627557,
+      "color": 16743548,
+      "image": {
+        "url": "https://github.com/VincentRPS/tomato-farm-asset/blob/master/server-org-anim.gif?raw=true"
+      },
+      "fields": []
+    },
+    {
+      "id": 656363275,
+      "title": "Important",
+      "description": "- <#1492298230598336633>: Channel for important announcements\n- <#1492276339733037066>: Channel for NTE social media notifications.",
+      "color": 16743548,
+      "fields": []
+    },
+    {
+      "id": 809503764,
+      "title": "Main Chats",
+      "description": "- <#1492256120180310086>: Welcoming new members\n- <#1492253279923605634>: Channel for talking about anything\n- <#1492261604832579684>: Channel for talking about NTE\n- <#1492262040088084652>: Channel to ask for NTE help",
+      "color": 16743548,
+      "fields": []
+    },
+    {
+      "id": 487078943,
+      "title": "Miscellaneous",
+      "description": "- <#1492262040088084652>: Channel to ask for NTE help\n- <#1493132349595062312>: Post your impressive PC setups\n- <#1492261721069453433>: Posting the cutest Lacrimosa in-game pictures and artwork\n- <#1492261813499461743>: Posting all your cute pet pics\n- ",
+      "color": 16743548,
+      "fields": []
+    },
+    {
+      "id": 218475070,
+      "title": "Voice Chats",
+      "description": "- <#1492260565647757324>: General text channel for all VCs\n- <#1492260246280736788>: VCs for any topic\n- <#1492253414707564724>: VC for hanging out\n- <#1492260391924006992>: VC to game and play off\n- <#1492260491089809478>: Mod-only VC",
+      "color": 16743548,
+      "fields": []
+    }
+  ],
+  "components": [],
+  "actions": {},
+  "flags": 0
+}
