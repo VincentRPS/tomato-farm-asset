@@ -1,0 +1,38 @@
+{
+  "content": "",
+  "tts": false,
+  "embeds": [
+    {
+      "id": 652627557,
+      "color": 16743548,
+      "fields": [],
+      "image": {
+        "url": "https://github.com/VincentRPS/tomato-farm-asset/blob/master/rules-anim.gif?raw=true"
+      }
+    },
+    {
+      "id": 166699808,
+      "description": "Check out https://discord.com/terms & https://discord.com/guidelines and please follow them.",
+      "fields": [],
+      "title": "Discord Rules",
+      "color": 16743548
+    },
+    {
+      "id": 314265243,
+      "description": "- **__Respect Others:__** Treat fellow members with kindness and respect. Harassment, hate speech, or any form of discrimination will not be tolerated.\nNo Self-Promotion: Refrain from promoting personal content or other Discord servers without permission from the server staff.\n- **__Safe and SFW:__** Keep the server content safe for all ages. **No** *NSFW or explicit material* is allowed.\n- **__Respect Privacy:__** Do not share personal information about yourself or others without consent.\n- **__Listen to Moderators/Staff:__** Follow the instructions of server moderators and administrators. They are here to ensure a positive experience for everyone.\n- **__Report Issues:__** If you encounter any problems or rule violations, report them to the server staff rather than taking matters into your own hands.\n- **__No Impersonation:__** Do not impersonate other users or staff members.\n- **__Age Restriction:__** Users must be at least 13 years old to participate in this server. Anyone found to be below this age will be automatically removed from the server to comply with Discord's Terms of Service.",
+      "fields": [],
+      "color": 16743548,
+      "title": "Server Rules"
+    },
+    {
+      "id": 504150813,
+      "description": "- **__No Spamming:__** Avoid excessive posting, emojis, or repetitive messages that disrupt the conversation flow.\n- **__Stay on Topic:__** Use the appropriate channels for your discussions or posts. Off-topic content may be removed.\n- **__No Spoilers Without Warning:__** Use spoiler tags when discussing sensitive information or recent events that could be considered spoilers.\n- **__Use English:__** This server primarily uses English for communication. If you need to use another language, please provide an English translation when possible.\n- **__No Malicious Content:__** Do not post any malicious content, including but not limited to malware, dangerous website links, harmful commands, or instructions. Jokes or discussions related to such content are also not allowed. This is to ensure the safety and security of all members in the server.",
+      "fields": [],
+      "title": "Channel Rules",
+      "color": 16743548
+    }
+  ],
+  "components": [],
+  "actions": {},
+  "flags": 0
+}
