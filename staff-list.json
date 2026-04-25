@@ -1,0 +1,38 @@
+{
+  "content": "",
+  "tts": false,
+  "embeds": [
+    {
+      "id": 652627557,
+      "color": 16743548,
+      "image": {
+        "url": "https://github.com/VincentRPS/tomato-farm-asset/blob/master/staff-list-anim.gif?raw=true"
+      },
+      "fields": []
+    },
+    {
+      "id": 752932112,
+      "description": "- <@1380785874459033600>",
+      "fields": [],
+      "title": "Owner",
+      "color": 16743548
+    },
+    {
+      "id": 521313736,
+      "description": "- <@1271706193198583932>\n- <@935655697671159839>",
+      "fields": [],
+      "title": "Co-owners",
+      "color": 16743548
+    },
+    {
+      "id": 529975722,
+      "description": "- <@1295508354369589332>",
+      "fields": [],
+      "title": "Moderators",
+      "color": 16743548
+    }
+  ],
+  "components": [],
+  "actions": {},
+  "flags": 0
+}
